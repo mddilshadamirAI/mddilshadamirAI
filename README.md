@@ -64,15 +64,13 @@
 </div>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpZl9pZC/3o7TKSjNGBhIpY09xG/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpZl9pZC/3o7TKSjNGBhIpY09xG/giphy.gif" width="100%">
 </p>
 
-- 🚀 I’m currently working on **The Clinic App** <br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhpZ3J3Z3R3eDhkZ3R3eDhkZ3R3eDhkZ3R3eDhkZ3R3eDhkJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCwmcD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="160" alt="Coding Animation">
+<br />
 
-<br>
+| ⚡ Current Activity | 📱 Product Showcase |
+| :--- | :--- |
+| **Focus:** Building the future of healthcare. <br><br> 🚀 Working on **The Clinic App** <br><br> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhpZ3J3Z3R3eDhkZ3R3eDhkZ3R3eDhkZ3R3eDhkZ3R3eDhkJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCwmcD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250"> | <img src="assets/Clinicapp.gif" width="500" alt="Clinic App Demo"> |
 
-### 📱 App Preview
-<p align="center">
-  <img src="assets/Clinicapp.gif" width="600" alt="Clinic App Demo">
-</p>
+<br />
