@@ -73,5 +73,5 @@
 
 ### 📱 App Preview
 <p align="center">
-  <img src="Clinic.gif" width="600">
+  <img src="assets/Clinicapp.gif" width="600" alt="Clinic App Demo">
 </p>
