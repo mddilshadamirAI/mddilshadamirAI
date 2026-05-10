@@ -40,20 +40,16 @@
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) |
 | **Frontend** | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) |
 
-<br />
-
 ### 📊 GitHub Analysis & Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mddilshadamirai&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mddilshadamirai&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mddilshadamirai&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mddilshadamirai&layout=compact&theme=vision-friendly-dark" height="180em" />
 </div>
 
 <div align="center">
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=mddilshadamirai&theme=vision-friendly-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mddilshadamirai&theme=vision-friendly-dark" width="400em" />
 </div>
-<br />
-
 ---
 
 <div align="center">
