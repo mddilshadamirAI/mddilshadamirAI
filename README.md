@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Dilshad Amir</h1>
-<h3 align="center">An Ai Engineer from India</h3>
+<h3 align="center">An Ai Engineer from India |SaaS Founder in Training </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mddilshadamirai&label=Profile%20views&color=0e75b6&style=flat" alt="mddilshadamirai" /> </p>
 
@@ -20,7 +20,6 @@
 - 📫 How to reach me **mddilshadamir@gmail.com**
 
 <div align="center">
-  <h1>Hi 👋, I'm MD Dilshad Amir</h1>
   <p><strong>AI Engineer | Backend Developer | SaaS Founder in Training</strong></p>
   
   <a href="https://linkedin.com/in/md-dilshad-amir-4bb505401/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
