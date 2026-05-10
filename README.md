@@ -62,14 +62,19 @@
   <br />
   <p><i>"The best time to plant a tree was 20 years ago. The second best time is now."</i></p>
 </div>
+
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpZl9pZC/3o7TKSjNGBhIpY09xG/giphy.webp" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpZl9pZC/3o7TKSjNGBhIpY09xG/giphy.gif" width="100%" alt="Banner" />
 </p>
 
-- 🚀 I’m currently working on **The Clinic App** <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R3eDhkZ3R3eDhkZ3R3eDhkZ3R3eDhkZ3R3eDhkJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpZl9pZC/qgQUggAC3Pfv687qPC/giphy.webp" width="25" />
+- 🚀 I’m currently working on **The Clinic App** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R3eDhkZ3R3eDhkZ3R3eDhkZ3R3eDhkZ3R3eDhkJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpZl9pZC/qgQUggAC3Pfv687qPC/giphy.gif" width="25" />
+
+<br />
 
 <div align="center">
   <h3>📱 App Preview</h3>
-  <img src="assets/demo.gif" width="600" alt="Clinic App Demo" />
+  <img src="Clinic.gif" width="600" alt="Clinic App Demo" />
 </div>
+
+
 
