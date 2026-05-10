@@ -52,5 +52,18 @@
 <div align="center">
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=mddilshadamirai&theme=vision-friendly-dark" />
 </div>
+<br />
 
 ---
+
+<div align="center">
+  <h3>🐍 Contribution Journey</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mddilshadamirai/mddilshadamirai/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mddilshadamirai/mddilshadamirai/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mddilshadamirai/mddilshadamirai/output/github-snake.svg">
+  </picture>
+  
+  <br />
+  <p><i>"The best time to plant a tree was 20 years ago. The second best time is now."</i></p>
+</div>
