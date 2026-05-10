@@ -42,15 +42,14 @@
 
 ### 📊 GitHub Analysis & Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mddilshadamirai&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mddilshadamirai&layout=compact&theme=vision-friendly-dark" height="180em" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mddilshadamirai&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="180" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mddilshadamirai&layout=compact&theme=vision-friendly-dark" height="180" alt="Languages Card" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mddilshadamirai&theme=vision-friendly-dark" width="400em" />
-</div>
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mddilshadamirai&theme=vision-friendly-dark" width="400" alt="Streak Card" />
+</p>
 
 <div align="center">
   <h3>🐍 Contribution Journey</h3>
