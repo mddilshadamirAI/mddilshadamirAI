@@ -42,18 +42,7 @@ I am a specialized AI Engineer and Backend Developer building high-performance, 
 © 2026 MD DILSHAD AMIR
 </div>
 
-
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mddilshadamirAI&theme=onedark&column=6" alt="Trophy" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mddilshadamirAI&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>
-
----
+______
 
 <p align="center">
   <i>"Code is not just logic; it is the infrastructure of the future."</i>
