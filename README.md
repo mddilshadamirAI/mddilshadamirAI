@@ -14,15 +14,6 @@ I am a specialized AI Engineer and Backend Developer building high-performance, 
 
 ---
 
-### 🛠 TECHNICAL COMPETENCIES
-
-| Domain | Proficiency |
-| :--- | :--- |
-| **Languages** | Python, SQL, JavaScript |
-| **AI Frameworks** | LangGraph, RAG, DeepLearning.AI, FastAPI |
-| **Infrastructure** | Docker, Streamlit, Linux (Self-Hosted), Git |
-
----
 
 ### 🚀 CURRENT VENTURES
 
@@ -32,6 +23,15 @@ I am a specialized AI Engineer and Backend Developer building high-performance, 
 **[SaaS Founder Journey](https://github.com/mddilshadamirAI)**
 *Actively documenting the transition from individual contributor to founder. Focusing on rapid development, deployment, and networking for 2026 expansion.*
 
+### 🚀 CURRENT PRODUCTS
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **AI Doc Assistant** | Intelligent assistant for clinical documentation. | [Live App](https://ai-doc-assistant-mddilshadamirai.streamlit.app/) |
+| **Maths Arena** | Interactive educational gaming platform. | [Live Game](https://maths-arena-game-mddilshada.streamlit.app/) |
+| **The Clinic App** | AI-driven medical practice management system. | [Live App](https://theclinicappv1--mddilshadamir.streamlit.app/) |
+
+---
 ---
 
 <div align="center">
