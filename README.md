@@ -1,49 +1,45 @@
 <div align="center">
 
 # MD DILSHAD AMIR
-### 🚀 AI Engineer | Backend Developer | SaaS Founder in Training
+### AI Engineer | Backend Systems | SaaS Founder
 
----
-
-**Building the future of scalable AI and backend solutions.**
-
-<br>
-
-<a href="https://linkedin.com/in/md-dilshad-amir-4bb505401/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/@MdDilshadAmir"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="mailto:mddilshadamir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[**LinkedIn**](https://linkedin.com/in/md-dilshad-amir-4bb505401/)  •  [**YouTube**](https://www.youtube.com/@MdDilshadAmir)  •  [**Portfolio**](https://mddilshadamirai.github.io/)  •  [**Email**](mailto:mddilshadamir@gmail.com)
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
-| Domain | Technologies |
+### 🌐 OVERVIEW
+I am a specialized AI Engineer and Backend Developer building high-performance, scalable automation. I focus on the intersection of **Agentic AI** and **SaaS architecture**. Currently dedicating my efforts to solving complex healthcare workflows and refining end-to-end backend systems.
+
+---
+
+### 🛠 TECHNICAL COMPETENCIES
+
+| Domain | Proficiency |
 | :--- | :--- |
 | **Languages** | Python, SQL, JavaScript |
-| **AI & Backend** | FastAPI, LangGraph, RAG, DeepLearning.AI |
-| **DevOps** | Docker, Git, Streamlit, Linux |
+| **AI Frameworks** | LangGraph, RAG, DeepLearning.AI, FastAPI |
+| **Infrastructure** | Docker, Streamlit, Linux (Self-Hosted), Git |
 
 ---
 
-### 📈 Current Focus
-*   **The Clinic App:** Actively developing [The Clinic App V1](https://github.com/mddilshadamirAI/The_Clinic_appV1). Seeking collaborators for backend optimization.
-*   **Professional Goal:** Transitioning to SaaS development with a focus on networking and scalable architecture.
-*   **Learning:** Currently deep-diving into **Advanced SQL** and **Agentic AI workflows**.
+### 🚀 CURRENT VENTURES
+
+**[The Clinic App V1](https://github.com/mddilshadamirAI/The_Clinic_appV1)**
+*A comprehensive, AI-driven management system designed for medical practices. Built to automate administrative friction using modern backend stacks.*
+
+**[SaaS Founder Journey](https://github.com/mddilshadamirAI)**
+*Actively documenting the transition from individual contributor to founder. Focusing on rapid development, deployment, and networking for 2026 expansion.*
 
 ---
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mddilshadamirAI&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mddilshadamirAI&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
 
 <div align="center">
-  <p><i>Always learning. Always building.</i></p>
+  
+> *“Engineering solutions that matter. Currently building for scale.”*
+
+---
+© 2026 MD DILSHAD AMIR
 </div>
 
 
