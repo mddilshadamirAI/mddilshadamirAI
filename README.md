@@ -1,7 +1,7 @@
 <div align="center">
 
 # MD DILSHAD AMIR
-### AI Engineer | Backend Systems | SaaS Founder
+### AI Engineer | Backend Systems | Freelance
 
 [**LinkedIn**](https://linkedin.com/in/md-dilshad-amir-4bb505401/)  •  [**YouTube**](https://www.youtube.com/@MdDilshadAmir)  •  [**Portfolio**](https://mddilshadamirai.github.io/)  •  [**Email**](mailto:mddilshadamir@gmail.com)
 
