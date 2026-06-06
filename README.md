@@ -1,33 +1,54 @@
-<h1 align="center">Hello 👋, I'm MD Dilshad Amir</h1>
-<h3 align="center">An Ai Engineer from India |SaaS Founder in Training </h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&lines=Hello%2C+I'm+MD+Dilshad+Amir;AI+Engineer+%26+Developer;SaaS+Founder+in+Training" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mddilshadamirai&label=Profile%20views&color=0e75b6&style=flat" alt="mddilshadamirai" /> </p>
+<p align="center">
+  <b>Building scalable AI solutions and automated workflows.</b>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mddilshadamirai" alt="mddilshadamirai" /></a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/md-dilshad-amir-4bb505401/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@MdDilshadAmir"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:mddilshadamir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on [My Profile](https://github.com/mddilshadamirAI)
+---
 
-- 🌱 I’m currently learning **SQL,API,fastAPI,langGraph,RAG,DeepLearningAi**
+### 🚀 About Me
+I am a passionate **AI Engineer and Backend Developer** currently on a fast-track journey to becoming a SaaS Founder. I love automating complex processes, building data-driven applications, and exploring the intersection of modern AI frameworks and robust backend architecture.
 
-- 👯 I’m looking to collaborate on [My Clinic App](https://github.com/mddilshadamirAI/The_Clinic_appV1)
+---
 
-- 🤝 I’m looking for help with [My Clinic App](https://github.com/mddilshadamirAI/The_Clinic_appV1)
+### 🛠 Tech Stack & Tools
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, HTML/CSS, JavaScript |
+| **Backend & AI** | FastAPI, LangGraph, RAG, DeepLearning.AI |
+| **Deployment & Ops** | Docker, Streamlit, Git, Self-Hosted Servers |
 
-- 👨‍💻 All of my projects are available at [https://mddilshadamirai.github.io/](https://mddilshadamirai.github.io/)
+---
 
-- 💬 Ask me about **python, Ai**
+### 📈 Current Focus
+*   **Learning:** Deepening my knowledge in **SQL, API design, and Advanced RAG architectures.**
+*   **Flagship Project:** Actively developing and seeking collaborators for **[The Clinic App](https://github.com/mddilshadamirAI/The_Clinic_appV1)**—an automated healthcare solution.
+*   **Goal:** Building high-value SaaS products for the future.
 
-- 📫 How to reach me **mddilshadamir@gmail.com**
+---
 
-<div align="center">
-  <p><strong>AI Engineer | Backend Developer | SaaS Founder in Training</strong></p>
-  
-  <a href="https://linkedin.com/in/md-dilshad-amir-4bb505401/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@MdDilshadAmir"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:mddilshadamir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=mddilshadamirAI&theme=onedark&column=6" alt="Trophy" />
+</p>
 
-<br />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mddilshadamirAI&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is not just logic; it is the infrastructure of the future."</i>
+</p>
 
 ---
 
