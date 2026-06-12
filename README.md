@@ -39,16 +39,17 @@ I am a specialized AI Engineer and Backend Developer building high-performance, 
 > *“Engineering solutions that matter. Currently building for scale.”*
 
 ---
-© 2026 MD DILSHAD AMIR
-</div>
 
-______
 
 <p align="center">
   <i>"Code is not just logic; it is the infrastructure of the future."</i>
 </p>
 
 ---
+© 2026 MD DILSHAD AMIR
+</div>
+
+______
 
 ### 🛠️ Tech Stack & Arsenal
 
