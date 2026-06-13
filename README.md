@@ -1,55 +1,66 @@
 <div align="center">
 
 # MD DILSHAD AMIR
-### AI Engineer | Backend Systems | Freelance
+### AI Engineer | Backend Architect | SaaS Founder
 
-[**LinkedIn**](https://linkedin.com/in/md-dilshad-amir-4bb505401/)  •  [**YouTube**](https://www.youtube.com/@MdDilshadAmir)  •  [**Portfolio**](https://mddilshadamirai.github.io/)  •  [**Email**](mailto:mddilshadamir@gmail.com)
-
-</div>
+[**LinkedIn**](https://linkedin.com/in/md-dilshad-amir-4bb505401/) • [**YouTube**](https://www.youtube.com/@MdDilshadAmir) • [**Portfolio**](https://mddilshadamirai.github.io/) • [**Email**](mailto:mddilshadamir@gmail.com)
 
 ---
 
-### 🌐 OVERVIEW
-I am a specialized AI Engineer and Backend Developer building high-performance, scalable automation. I focus on the intersection of **Agentic AI** and **SaaS architecture**. Currently dedicating my efforts to solving complex healthcare workflows and refining end-to-end backend systems.
+### 🌐 MISSION STATEMENT
+I am a specialized AI Engineer and Backend Architect dedicated to engineering high-performance, scalable automation. I operate at the intersection of **Agentic AI** and **SaaS architecture**, focusing on transforming complex workflows into seamless, utility-driven digital experiences. My current work is heavily focused on optimizing healthcare administration and refining end-to-end backend systems for modern enterprise needs.
 
 ---
 
+### 🛠️ TECHNICAL ARSENAL
 
-### 🚀 CURRENT VENTURES
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript (ES6+), SQL |
+| **AI & Backend** | Streamlit, LangChain, API Design, Automation Scripts |
+| **Architecture** | Self-Hosting, Docker, Containerization |
+| **Deployment** | GitHub Pages, Streamlit Cloud, CI/CD |
 
-**[The Clinic App V1](https://github.com/mddilshadamirAI/The_Clinic_appV1)**
-*A comprehensive, AI-driven management system designed for medical practices. Built to automate administrative friction using modern backend stacks.*
+---
 
-**[SaaS Founder Journey](https://github.com/mddilshadamirAI)**
-*Actively documenting the transition from individual contributor to founder. Focusing on rapid development, deployment, and networking for 2026 expansion.*
+### 🚀 FEATURED PRODUCTS
 
-### 🚀 CURRENT PRODUCTS
-
-| Project | Description | Link |
+| Project | Key Functionality | Live Demo |
 | :--- | :--- | :--- |
-| **AI Doc Assistant** | Intelligent assistant for clinical documentation. | [Live App](https://ai-doc-assistant-mddilshadamirai.streamlit.app/) |
-| **Maths Arena** | Interactive educational gaming platform. | [Live Game](https://maths-arena-game-mddilshada.streamlit.app/) |
-| **The Clinic App** | AI-driven medical practice management system. | [Live App](https://theclinicappv1--mddilshadamir.streamlit.app/) |
-
----
----
-
-<div align="center">
-  
-> *“Engineering solutions that matter. Currently building for scale.”*
+| **AI Doc Assistant** | Intelligent NLP for automated clinical documentation. | [View App](https://ai-doc-assistant-mddilshadamirai.streamlit.app/) |
+| **The Clinic App** | AI-driven workflow management for medical practices. | [View App](https://theclinicappv1--mddilshadamir.streamlit.app/) |
+| **Maths Arena** | Interactive educational gaming & logic platform. | [View Game](https://maths-arena-game-mddilshada.streamlit.app/) |
 
 ---
 
+### 📈 THE FOUNDER'S JOURNEY (2026 ROADMAP)
+I am currently documenting my evolution from an individual developer to a **SaaS Founder**. My process is defined by:
+*   **High-Intensity Sprints:** Adopting a 180-day cycle to ship production-ready code.
+*   **Utility-First Development:** Prioritizing solutions that solve tangible problems over mere aesthetic builds.
+*   **Networking & Growth:** Planning for regional expansion to Bengaluru to scale my infrastructure and launch flagship SaaS offerings.
+
+---
+
+### 📊 MY COMMITMENT
+> *“Engineering is the art of turning complex problems into scalable infrastructure. I don't just write code; I architect the future of automation.”*
+
+---
+
+### 📬 LATEST UPDATES
+*   **Currently:** Scaling backend performance for *The Clinic App*.
+*   **Focus:** Mastering Advanced SQL and Agentic AI workflows.
+*   **Status:** Open for technical collaborations and networking opportunities.
+
+---
 
 <p align="center">
-  <i>"Code is not just logic; it is the infrastructure of the future."</i>
+  <img src="https://img.shields.io/badge/Status-Building-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-AI_&_Backend-blue?style=for-the-badge" alt="Focus">
 </p>
 
----
-© 2026 MD DILSHAD AMIR
-</div>
+© 2026 MD DILSHAD AMIR | *Built with intent, deployed for scale.*
 
-______
+</div>
 
 ### 🛠️ Tech Stack & Arsenal
 
