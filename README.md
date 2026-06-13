@@ -12,17 +12,6 @@ I am a specialized AI Engineer and Backend Architect dedicated to engineering hi
 
 ---
 
-### 🛠️ TECHNICAL ARSENAL
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), SQL |
-| **AI & Backend** | Streamlit, LangChain, API Design, Automation Scripts |
-| **Architecture** | Self-Hosting, Docker, Containerization |
-| **Deployment** | GitHub Pages, Streamlit Cloud, CI/CD |
-
----
-
 ### 🚀 FEATURED PRODUCTS
 
 | Project | Key Functionality | Live Demo |
