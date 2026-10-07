@@ -2,7 +2,7 @@
 
 # ✦ MD DILSHAD AMIR ✦
 
-### AI Engineer • Software Engineer • SaaS Builder
+### AI Engineer • Software Engineer
 
 **Building practical AI systems, intelligent automation & scalable software.**
 
