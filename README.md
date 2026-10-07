@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ MD DILSHAD AMIR
+# ✦ MD DILSHAD AMIR ✦
 
 ### AI Engineer • Software Engineer • SaaS Builder
 
@@ -9,16 +9,19 @@
 <br>
 
 <a href="https://linkedin.com/in/md-dilshad-amir-4bb505401/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.youtube.com/@MdDilshadAmir">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://mddilshadamirai.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:mddilshadmir@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
@@ -32,214 +35,262 @@
 
 ---
 
-## 👋 About Me
+<div align="center">
+
+# 👋 About Me
 
 I'm **MD Dilshad Amir**, an AI & Software Engineer focused on building **useful software that solves real-world problems**.
 
-My work sits at the intersection of:
+My work combines:
 
-* 🤖 **Artificial Intelligence & LLM Applications**
-* 🧠 **Agentic AI & AI Automation**
-* ⚡ **Backend Engineering**
-* 🗄️ **SQL & Data Systems**
-* 🌐 **Web Applications**
-* 🚀 **SaaS Product Development**
+**Artificial Intelligence • LLMs • Agentic AI • Backend Engineering • SQL • SaaS**
 
-I don't want to build software simply for the sake of writing code.
+<br>
 
-> **My goal is to turn real problems into simple, intelligent and scalable products.**
-
----
-
-## 🚀 What I'm Building
-
-### 🏥 AI for Healthcare
-
-One of my primary areas of exploration is **AI-powered healthcare software**.
-
-I'm building tools that can help clinics:
-
-* Automate repetitive patient queries
-* Improve administrative workflows
-* Organize information
-* Reduce manual workload
-* Create faster and more accessible digital experiences
-
-### 🤖 Agentic AI
-
-I'm exploring systems where AI can do more than simply answer questions.
-
-My focus includes:
-
-**LLMs → Tools → APIs → Memory → Agents → Automation**
-
-The long-term goal is to build AI systems capable of completing useful multi-step workflows.
-
-### 💼 SaaS
-
-I'm working toward building my own **software products and SaaS businesses** rather than remaining limited to traditional development work.
-
----
-
-# ⭐ Featured Projects
-
-<div align="center">
-
-### 🧠 AI Doc Assistant
-
-**AI-powered document and clinical assistance platform**
-
-Automates information processing and helps transform documents into useful, structured insights.
-
-[🚀 **Live Application**](https://ai-doc-assistant-mddilshadamirai.streamlit.app/)
-
----
-
-### 🏥 The Clinic App
-
-**Digital workflow platform for modern clinics**
-
-Designed around AI-assisted workflows and tools that can help reduce repetitive administrative work.
-
-[🚀 **Live Application**](https://theclinicappv1--mddilshadamir.streamlit.app/)
-
----
-
-### 🧮 Maths Arena
-
-**Interactive mathematics gaming platform**
-
-A competitive learning experience combining mathematics, game mechanics and real-time interaction.
-
-[🎮 **Play Maths Arena**](https://maths-arena-game-mddilshada.streamlit.app/)
+> **I don't build software simply to write code.**
+>
+> **I build technology to solve problems.**
 
 </div>
 
 ---
 
+<div align="center">
+
+# 🚀 What I'm Building
+
+### 🏥 AI for Healthcare
+
+Building AI-powered tools designed to help clinics:
+
+**Automate repetitive queries • Improve workflows • Reduce manual work • Organize information**
+
+<br>
+
+### 🤖 Agentic AI
+
+Exploring intelligent systems that can reason, use tools and execute multi-step workflows.
+
+**LLMs → Tools → APIs → Memory → Agents → Automation**
+
+<br>
+
+### 💼 SaaS
+
+Working toward building independent **software products and SaaS businesses** around real-world problems.
+
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ Featured Projects
+
+<br>
+
+## 🧠 AI Doc Assistant
+
+**AI-powered document & clinical assistance platform**
+
+Automated document processing and intelligent information extraction.
+
+<br>
+
+<a href="https://ai-doc-assistant-mddilshadamirai.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_VIEW_LIVE_APP-111111?style=for-the-badge" />
+</a>
+
+<br><br><br>
+
+## 🏥 The Clinic App
+
+**AI-assisted digital workflow platform for clinics**
+
+Designed to simplify repetitive administrative and patient-facing workflows.
+
+<br>
+
+<a href="https://theclinicappv1--mddilshadamir.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_VIEW_LIVE_APP-111111?style=for-the-badge" />
+</a>
+
+<br><br><br>
+
+## 🧮 Maths Arena
+
+**Interactive mathematics gaming platform**
+
+A competitive learning experience combining mathematics, gaming and interaction.
+
+<br>
+
+<a href="https://maths-arena-game-mddilshada.streamlit.app/">
+<img src="https://img.shields.io/badge/🎮_PLAY_MATHS_ARENA-111111?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 # 🛠️ Tech Stack
 
 ### Languages
 
-<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+
+<br><br>
 
 ### AI & LLM Engineering
 
-<p>
 <img src="https://img.shields.io/badge/LLM_APIs-111111?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
-### Backend & Development
+<br><br>
 
-<p>
+### Backend & Tools
+
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+
+</div>
 
 ---
-
-# 🧩 Engineering Philosophy
-
-```text
-Real Problem
-     ↓
-Understand the Workflow
-     ↓
-Design the Solution
-     ↓
-Build the AI / Backend System
-     ↓
-Test & Improve
-     ↓
-Deploy
-     ↓
-Collect Feedback
-     ↓
-Scale
-```
-
-I believe good engineering isn't about making software complicated.
-
-It's about making **complex problems feel simple to the person using the product.**
-
----
-
-# 📈 2026 — Building in Public
-
-This year is about moving from **developer → product builder → SaaS founder**.
-
-### Current priorities
-
-* 🐍 Strengthen Python engineering
-* 🗄️ Master advanced SQL & data systems
-* ⚡ Build production-ready FastAPI backends
-* 🧠 Go deeper into LangChain & LangGraph
-* 🤖 Build reliable Agentic AI systems
-* 🌐 Ship more real-world applications
-* 🚀 Turn useful ideas into SaaS products
-* 🤝 Collaborate with builders and businesses
-
----
-
-# 🎯 Long-Term Vision
-
-> **Build software companies around problems that matter.**
-
-The objective isn't simply to collect technologies.
-
-It's to combine:
-
-**Engineering + AI + Product Thinking + Business**
-
-into software products that people genuinely want to use.
-
----
-
-# 🤝 Let's Connect
-
-I'm open to:
-
-* 💼 Freelance projects
-* 🤝 Technical collaborations
-* 🚀 Startup & SaaS discussions
-* 🤖 AI projects
-* 🌐 Software development opportunities
-* 💡 Interesting product ideas
 
 <div align="center">
 
-### Have an interesting problem?
+# 🧩 My Engineering Philosophy
 
-**Let's build something useful.**
+<br>
+
+### Real Problem
+
+↓
+
+### Understand the Workflow
+
+↓
+
+### Design the Solution
+
+↓
+
+### Build
+
+↓
+
+### Test
+
+↓
+
+### Deploy
+
+↓
+
+### Improve
+
+↓
+
+### Scale
+
+<br>
+
+> **Good engineering makes complex problems feel simple.**
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 2026 — Building in Public
+
+### My Current Focus
+
+🐍 **Python Engineering**
+
+🗄️ **Advanced SQL & Data Systems**
+
+⚡ **FastAPI & Backend Architecture**
+
+🧠 **LangChain & LangGraph**
+
+🤖 **Agentic AI**
+
+🚀 **SaaS Product Development**
+
+🤝 **Freelance & Technical Collaboration**
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎯 Long-Term Vision
+
+### Developer → Product Builder → SaaS Founder
+
+<br>
+
+**Engineering + AI + Product Thinking + Business**
+
+<br>
+
+My long-term goal is to build software products that solve meaningful problems and create real-world impact.
+
+</div>
+
+---
+
+<div align="center">
+
+# 🤝 Let's Connect
+
+<br>
+
+**Open to freelance projects, collaborations, AI projects, SaaS ideas and interesting technical opportunities.**
 
 <br>
 
 <a href="mailto:mddilshadmir@gmail.com">
-<img src="https://img.shields.io/badge/Let's_Work_Together-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/md-dilshad-amir-4bb505401/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@MdDilshadAmir">
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://mddilshadamirai.github.io/">
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br><br>
 
 ---
 
-### ⚡ Build. Learn. Ship. Repeat.
+### ⚡ BUILD • LEARN • SHIP • REPEAT
 
 **© 2026 MD DILSHAD AMIR**
 
 *Built with intent. Designed for impact.*
 
 </div>
-
 
 ### 🛠️ Tech Stack & Arsenal
 
